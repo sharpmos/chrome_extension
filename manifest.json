@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+ "name": "imaging",
+  "description": "minimises current page",
+  "version": "6.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+    "https://ajax.googleapis.com/"
+   ]
+}
+ 
+  
